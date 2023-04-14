@@ -14,7 +14,7 @@ pub fn pick_aoc_challenge_url() -> String {
 }
 
 const LANGUAGES: [&str; 14] = [
-    "Golang", 
+    "Golang",
     "Python",
     "Java",
     "C#",
@@ -27,5 +27,5 @@ const LANGUAGES: [&str; 14] = [
     "Haskell",
     "Rust",
     "Javascript",
-    "Typescript"
+    "Typescript",
 ];
